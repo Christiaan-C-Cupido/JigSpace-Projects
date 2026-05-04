@@ -6,4 +6,4 @@ link: https://link.jig.space/QclP6QGxgUb
 <img width="350" height="200" alt="Screenshot 2026-05-04 100409" src="https://github.com/user-attachments/assets/426f5d23-2320-4b8c-a75f-2089deb61692" />
 
 
-3) 
+2) 
